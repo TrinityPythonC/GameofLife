@@ -1,0 +1,3 @@
+﻿  GameOfLife2.cpp
+C:\Users\raymo\OneDrive - Trinity College\Code\C\Life\GameOfLife2\GameOfLife2\GameOfLife2.cpp(85,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOfLife2.vcxproj -> C:\Users\raymo\OneDrive - Trinity College\Code\C\Life\GameOfLife2\x64\Debug\GameOfLife2.exe
